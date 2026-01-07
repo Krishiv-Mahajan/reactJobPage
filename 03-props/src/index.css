@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card{
+  margin:40px;
+  width:300px;
+  height: auto;
+  background-color: brown;
+  text-align: center;
+  border: 8px black solid;
+  padding: 20px;
+}
+
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button{
+  background-color: black;
+  color:antiquewhite ;
+  border: none;
+  padding:10px;
+  margin:10px;
+}
+
+h1{
+  padding: 10px;
+}
+
+p{
+  padding: 10px;
+}
+
+img{
+  height:70px;
+  width: 70px;
+  border-radius: 54%;
+}
